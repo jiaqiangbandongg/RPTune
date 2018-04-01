@@ -8,7 +8,7 @@ A special way to tune parameter with your RP.
 3. Train simple model and predict the testset.
 4. Output the TopK result.
 
-##Comparing RandomizedSearchCV and RPTune
+## Comparing RandomizedSearchCV and RPTune
 Use digits dataset in *sklearn.datasets.load_digits*.
 
 tool | best score
